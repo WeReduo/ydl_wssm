@@ -1,5 +1,11 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
+  <el-row>
+ 
+  <el-button type="success" plain>成功按钮</el-button>
+  
+</el-row>
+
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
