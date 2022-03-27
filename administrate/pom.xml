@@ -107,5 +107,4 @@
             <artifactId>mybatis-spring</artifactId>
         </dependency>
     </dependencies>
-
 </project>
